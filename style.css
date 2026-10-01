@@ -1,0 +1,25 @@
+body{ 
+    margin: 0;
+    padding: 0;  
+    width: 100%;                                           
+    background-color: white;	    
+ }
+
+#right-column{
+   width: 0px;
+   float: left;
+   background-color:aqua;     
+}
+
+#right-column img{
+     width:230px;
+     margin-left:140px;
+     margin-top:100px;
+}
+
+img#logo{
+    position:fixed;
+    width:100px;
+    bottom:20px;
+    right:10px
+}
